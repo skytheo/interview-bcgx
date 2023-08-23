@@ -1,7 +1,9 @@
 # interview-bcgx
 ## How to setup and Run
+    Once you have loned the repo to your local
     Install VS Code, C# extension, and .NET 7.0 SDK.
-    To Run: In the terminal "dotnet run --launch-profile https"
+    To Run: In the terminal "dotnet run" this will do a build for you you can run "dotnet build" for just that part
+    Get the port from the output and go to http://localhost:5164/swagger/index.html
     
 
 ## Approach
